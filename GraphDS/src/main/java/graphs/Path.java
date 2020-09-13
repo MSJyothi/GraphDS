@@ -1,4 +1,4 @@
-package com.jyothi.graphs;
+package main.java.graphs;
 
 import java.util.ArrayList;
 import java.util.List;
